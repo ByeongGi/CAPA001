@@ -1,0 +1,6 @@
+{
+  "appId": "com.cap001.app",
+  "appName": "cap001",
+  "bundledWebRuntime": false,
+  "webDir": "dist/capa001/"
+}
